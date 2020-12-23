@@ -1,7 +1,6 @@
 # Project-4__NLP-bag-words-SMOTE
-Sentiment Analysis for the Amazon Software dataset using Bag-of-Words and using SMOTE (Synthetic Minority Over-sampling Technique)
 
-**In this Jupyter notebook we perform Sentiment Analysis for the Amazon Software dataset using Bag-of-Words.**
+**Summary: In this Jupyter notebook Sentiment Analysis for the Amazon Software dataset using Bag-of-Words and using SMOTE (Synthetic Minority Over-sampling Technique).**
 
 The Amazon Softare dataset is taken from this link: https://nijianmo.github.io/amazon/index.html 
 
